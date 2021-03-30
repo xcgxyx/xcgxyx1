@@ -29,7 +29,7 @@ main: #简历主要内容，
     detail: 信息安全专业
 
 - type: experience
-  name: 经验
+  name: 项目经历
   content:
   - title: 职位
     sub: 某某公司
