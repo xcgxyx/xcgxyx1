@@ -14,14 +14,7 @@ contact: #联系方式连接等3~5行
   icon: 'icons/email.svg' #图标 svg文件
 - text: "15623195005"
   href: 'tel:15623195005'
-  icon: ''
-- text: ""
-  href: ''
-  icon: ''
-- text: ""
-  href: ''
-  icon: ""
-  attr: '' #新标签页打开
+  icon: 'icons/phone.svg'
   # - text: "地址"
   #   icon: "icons/location.svg"
 
