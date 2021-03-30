@@ -26,7 +26,7 @@ main: #简历主要内容，
   - title: 华中科技大学
     duration: "2018年9月 - 2022年6月"
     sub: 时间
-    detail: 信息安全专业
+    title: 信息安全专业
 
 - type: skills
   # name: "技能"
