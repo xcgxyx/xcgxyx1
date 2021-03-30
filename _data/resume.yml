@@ -27,7 +27,6 @@ main: #简历主要内容，
     duration: "2018年9月 - 2022年6月"
     sub: 时间
     detail: 信息安全专业
-    detail1: 本科
 
 - type: skills
   # name: "技能"
